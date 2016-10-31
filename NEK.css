@@ -26,3 +26,9 @@ h2 {
   margin-top: 40px;
   padding-top: 20px;
 }
+
+#about {
+  float: left;
+  margin: 10em 5% 0;
+  width: 20%;
+}
