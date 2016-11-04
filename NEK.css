@@ -21,6 +21,12 @@ h2 {
   font-family: Verdana, sans-serif;
 }
 
+h4 {
+  font-size: 15px;
+  font-family: Georgia
+}
+
+
 #location-header {
   border-top: 1px solid #b9afaf;
   margin-top: 40px;
